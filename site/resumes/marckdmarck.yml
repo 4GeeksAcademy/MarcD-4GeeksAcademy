@@ -38,6 +38,7 @@ basic_info:
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: marckdmarck
     
+    
     twitter: 'webjeda' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
